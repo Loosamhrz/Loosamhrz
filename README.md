@@ -54,7 +54,13 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Loosamhrz&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Loosamhrz's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=Loosamhrz&theme=dark&border_radius=10&cache_seconds=86400" alt="Loosamhrz's GitHub Streak" width="49%" />
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Loosamhrz&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+</p>
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <a href="https://github.com/Loosamhrz">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Loosamhrz&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  </a>
 </p>
 
 ## Connect With Me
