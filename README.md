@@ -48,6 +48,13 @@
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
 </p>
 
+### 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/Loosamhrz">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Loosamhrz&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Loosamhrz's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Loosamhrz&theme=dark&border_radius=10&cache_seconds=86400" alt="Loosamhrz's GitHub Streak" width="49%" />
+</p>
 
 ## Connect With Me
 
@@ -62,7 +69,3 @@
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
-
-<p align="center">
-  <img src="https://githance.in/api/render?type=footer&banner_id=banner-3&w=1600&h=240" alt="Footer banner 03" width="800" />
-</p>
