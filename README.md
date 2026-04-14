@@ -1,6 +1,10 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Loosa%20Maharjan&fontSize=38&fontAlignY=35&desc=Exploring%20Data%2C%20Building%20Intelligence%20%F0%9F%9A%80&descAlignY=60" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Loosa%20Maharjan&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Exploring%20Data%2C%20Building%20Intelligence%20%F0%9F%9A%80&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Loosamhrz">
+    <img src="https://komarev.com/ghpvc/?username=Loosamhrz&label=Profile%20views&color=00FFFF&style=flat-square" alt="Loosamhrz's profile views" />
+  </a>
+</p>
 
 
 <h2>Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px">, I'm Loosa Maharjan</h2><ul data-spread="false">🎓 BE in Computer Engineering<br>📊 Skilled in extracting insights and building dashboards<br>🚀 Passionate about Data, AI, and building real-world solutions<br>🌏 Based in Kathmandu, Nepal<ul>
