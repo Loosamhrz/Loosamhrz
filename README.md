@@ -53,7 +53,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/Loosamhrz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Loosamhrz&cache_seconds=30&layout=compact&theme=dark&border_radius=10" alt="Loosamhrz's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Loosamhrz&cache_seconds=30&layout=compact&theme=dark&border_radius=10" alt="Loosamhrz's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=Loosamhrz&theme=dark&border_radius=10&cache_seconds=30" alt="Loosamhrz's GitHub Streak" width="49%" />
 </p>
@@ -61,7 +61,7 @@
 ## 🛠️ Languages & Tools
 <p align="center">
   <a href="https://github.com/Loosamhrz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loosamhrz&langs_count=8&layout=compact&theme=dark&border_radius=10&cache_seconds=30" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Loosamhrz&langs_count=8&layout=compact&theme=dark&border_radius=10&cache_seconds=30" alt="Top Languages" />
   </a>
 </p>
 
