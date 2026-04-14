@@ -58,6 +58,14 @@
   <img src="https://streak-stats.demolab.com/?user=Loosamhrz&theme=dark&border_radius=10&cache_seconds=86400" alt="Loosamhrz's GitHub Streak" width="49%" />
 </p>
 
+### 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/Loosamhrz">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Loosamhrz&show_icons=true&count_private=true&theme=tokyonight&cache_seconds=30" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Loosamhrz&theme=tokyonight&cache_seconds=30" width="49%" />
+</p>
+
 ## 🛠️ Languages & Tools
 <p align="center">
   <a href="https://github.com/Loosamhrz">
