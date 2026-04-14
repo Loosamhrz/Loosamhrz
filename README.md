@@ -59,7 +59,7 @@
 
 
 <p align="center">
-  <img src="https://githance.in/api/render?type=contribution-heatmap&variant=classic&v=rect-v4&user=loosamhrz&range=yearly" alt="Contribution graph" />
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
 
