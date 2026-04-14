@@ -3,7 +3,7 @@
 </div>
 
 
-<h2>Hi there 👋, I'm Loosa Maharjan</h2><ul data-spread="false">🎓 BE in Computer Engineering<br>📊 Skilled in extracting insights and building dashboards<br>🚀 Passionate about Data, AI, and building real-world solutions<br>🌏 Based in Kathmandu, Nepal<ul>
+<h2>Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px">, I'm Loosa Maharjan</h2><ul data-spread="false">🎓 BE in Computer Engineering<br>📊 Skilled in extracting insights and building dashboards<br>🚀 Passionate about Data, AI, and building real-world solutions<br>🌏 Based in Kathmandu, Nepal<ul>
 </ul>
 
 
