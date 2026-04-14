@@ -3,7 +3,7 @@
 </div>
 
 
-<h2>Hi there 👋, I'm Loosa Maharjan</h2><ul data-spread="false">🎓 BE in Computer Engineering<br>📊 Skilled in extracting insights and building dashboards<br>🚀 Passionate about Data, AI, and building real-world solutions🌏 Based in Kathmandu, Nepal<ul>
+<h2>Hi there 👋, I'm Loosa Maharjan</h2><ul data-spread="false">🎓 BE in Computer Engineering<br>📊 Skilled in extracting insights and building dashboards<br>🚀 Passionate about Data, AI, and building real-world solutions<br>🌏 Based in Kathmandu, Nepal<ul>
 </ul>
 
 
