@@ -13,7 +13,7 @@
 
 ### Languages:
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=py" alt="Python" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
@@ -23,7 +23,7 @@
 
 ### Libraries & Frameworks:
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
@@ -44,7 +44,7 @@
 
 ### Databases:
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
