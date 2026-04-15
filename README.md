@@ -53,11 +53,17 @@
 
 ## Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/loosa-maharjan-b315a22b2"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" alt="LinkedIn" width="34" height="34" /></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/loosamhrz/"><img src="https://api.iconify.design/simple-icons:instagram.svg?color=%23E4405F" alt="Instagram" width="34" height="34" /></a>&nbsp;&nbsp;
-  <a href="https://wa.me/+9779840000928"><img src="https://api.iconify.design/simple-icons:whatsapp.svg?color=%2325D366" alt="WhatsApp" width="34" height="34" /></a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/loosa-maharjan-b315a22b2">
+    <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/loosamhrz/">
+    <img src="https://api.iconify.design/simple-icons:instagram.svg?color=%23E4405F" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/+9779840000928">
+    <img src="https://api.iconify.design/simple-icons:whatsapp.svg?color=%2325D366" width="40"/>
+  </a>
+</div>
 
 
 <p align="center">
