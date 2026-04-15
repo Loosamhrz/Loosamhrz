@@ -13,38 +13,27 @@
 
 ### Languages:
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=py,html,css,js,cpp" />
   
 </p>
 
 ### Libraries & Frameworks:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=django" alt="Django" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,react,vite,django,fastapi"/>
 </p>
 
 ### Tools & Platforms:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=jira" alt="Jira" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,postman,jira" />
 </p>
 
 ### Databases:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 </p>
 
 ### 📊 GitHub Stats
