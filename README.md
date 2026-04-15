@@ -32,7 +32,7 @@
 
 ### Databases:
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 </p>
 
