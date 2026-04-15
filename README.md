@@ -14,7 +14,7 @@
 ### Languages:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,html,css,js,cpp" alt="Python" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=py,html,css,js,cpp" />
   
 </p>
 
